@@ -11,6 +11,8 @@ color: white;
    display: flex;
    justify-content: space-around;
 }
- 
+ .cabecalho-Lista-item{
+   display: inline-block;
+ }
  
   
